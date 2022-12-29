@@ -90,3 +90,5 @@ good projects for my personal usage
 [build your own x](https://github.com/codecrafters-io/build-your-own-x) Master programming by recreating your favorite technologies from scratch.
 
 [awesome productivity(CN)](https://github.com/eastlakeside/awesome-productivity-cn) Awesome Productivity - Chinese version
+
+[learn git in 30 days](https://github.com/doggy8088/Learn-Git-in-30-days) 30 天學習 git
