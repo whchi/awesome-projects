@@ -95,3 +95,7 @@ good projects for my personal usage
 [learn git in 30 days](https://github.com/doggy8088/Learn-Git-in-30-days) 30 天學習 git
 
 [golang 簡中教學資源](https://github.com/0voice/Introduction-to-Golang)
+
+[devops exercises](https://github.com/bregman-arie/devops-exercises) devops fundamental knowledges for interview
+
+[中文文案排版指南](https://github.com/sparanoid/chinese-copywriting-guidelines)
