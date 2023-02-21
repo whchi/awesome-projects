@@ -99,3 +99,5 @@ good projects for my personal usage
 [devops exercises](https://github.com/bregman-arie/devops-exercises) devops fundamental knowledges for interview
 
 [中文文案排版指南](https://github.com/sparanoid/chinese-copywriting-guidelines)
+
+[指令工程師學習手冊](https://github.com/dair-ai/Prompt-Engineering-Guide/tree/main)
