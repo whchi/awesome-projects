@@ -11,6 +11,8 @@ good projects for my personal usage
 * no-code
 
 [Amplication](https://github.com/amplication/amplication) no-code tool, based-on react and graphql+nodejs
+
+[novu](https://github.com/novuhq/novu) opensource notification infrastructure
 * http client
 
 [Hoppscotch](https://github.com/hoppscotch/hoppscotch) postman alternative
