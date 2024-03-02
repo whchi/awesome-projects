@@ -1,3 +1,17 @@
+# Tools
+- [Every tool you need to work with PDFs in one place](https://www.ilovepdf.com/)
+- [world news API](https://worldnewsapi.com/)
+- [https://exchangeratesapi.io/](exchange rate API)
+- [HTTP status DOG](https://http.dog/)
+- [HTTP status CAT](https://http.cat/)
+- [Geocoding Api for forward and reverse search](https://geokeo.com/)
+- [Convert everything](https://cloudconvert.com/)
+- [ollama, run local LLM](https://ollama.com/)
+- [Open weather API](https://openweathermap.org/api)
+- [Podcast API](https://podcastindex-org.github.io)
+- [zen quote API](https://zenquotes.io/)
+- [date calculater](https://digidates.de/en/)
+
 # Contents
 - [free programing ebooks](https://github.com/aluismoya/EbookFoundation-free-programming-books)
 - [project-based learning](https://github.com/practical-tutorials/project-based-learning)
