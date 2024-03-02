@@ -1,7 +1,7 @@
 # Tools
 - [Every tool you need to work with PDFs in one place](https://www.ilovepdf.com/)
 - [world news API](https://worldnewsapi.com/)
-- [https://exchangeratesapi.io/](exchange rate API)
+- [exchange rate API](https://exchangeratesapi.io/)
 - [HTTP status DOG](https://http.dog/)
 - [HTTP status CAT](https://http.cat/)
 - [Geocoding Api for forward and reverse search](https://geokeo.com/)
