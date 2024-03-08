@@ -1,4 +1,5 @@
 # Tools
+- [popular opensource alternatives](https://openalternative.co/)
 - [Every tool you need to work with PDFs in one place](https://www.ilovepdf.com/)
 - [world news API](https://worldnewsapi.com/)
 - [exchange rate API](https://exchangeratesapi.io/)
