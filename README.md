@@ -16,6 +16,12 @@
 - [zen quote API](https://zenquotes.io/)
 - [date calculater](https://digidates.de/en/)
 
+## cli
+- [ncdu](https://formulae.brew.sh/formula/ncdu) calculating file usage
+- [jq](https://github.com/jqlang/jq) cli json processor
+- [prezto](https://github.com/sorin-ionescu/prezto) zsh configuration framework
+- [ripgrep](https://github.com/BurntSushi/ripgrep) RIP grep
+
 # Contents
 - [free programing ebooks](https://github.com/aluismoya/EbookFoundation-free-programming-books)
 - [project-based learning](https://github.com/practical-tutorials/project-based-learning)
@@ -43,6 +49,14 @@
 # DevOps
 - [k3s](https://github.com/k3s-io/k3s) light-weight k8s
 - [onedev](https://github.com/theonedev/onedev) Self-hosted Git Server with CI/CD and Kanban
+- [dive](https://github.com/wagoodman/dive) A tool for exploring each layer in a docker image
+- [terraform](https://www.terraform.io/) IaaC
+- [terragrunt](https://terragrunt.gruntwork.io/) terraform DRY improvement
+
+## Load testing
+- [k6](https://grafana.com/docs/k6/latest/) modern load testing tool
+- [wrk](https://github.com/wg/wrk) easy to use load testing tool
+
 # Development
 - [ngrok](https://github.com/inconshreveable/ngrok) Introspected tunnels to localhost
 - [public-apis](https://github.com/public-apis/public-apis) A list of public APIs
@@ -66,11 +80,13 @@
 # Database
 - [NokoDB](https://github.com/nocodb/nocodb) opensource airtable
 - [rqlite](https://github.com/rqlite/rqlite) distributed RDBMS using sqlite
+
 # AI
 - [gpt4all](https://github.com/nomic-ai/gpt4all) free-to-use LLM chatbots for everyone
 - [dify](https://github.com/langgenius/dify) LLM app development platform with BaaS & LLMOps
 - [screen shot to code](https://github.com/abi/screenshot-to-code) image to code
 - [bilingual book maker](https://github.com/yihong0618/bilingual_book_maker) 電子書雙語翻譯
+
 # Programing languages
 ## node.js/javascript
 - [typefest](https://github.com/sindresorhus/type-fest) typescript types collection
