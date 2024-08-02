@@ -58,6 +58,8 @@
 - [wrk](https://github.com/wg/wrk) easy to use load testing tool
 
 # Development
+- [precommit](https://github.com/pre-commit/pre-commit) strict your coding style
+- [husky](https://github.com/typicode/husky) strict your coding style, most used by frontend devs
 - [ngrok](https://github.com/inconshreveable/ngrok) Introspected tunnels to localhost
 - [public-apis](https://github.com/public-apis/public-apis) A list of public APIs
 - [localstack](https://github.com/localstack/localstack) local aws cloud emulator
@@ -73,6 +75,8 @@
 - [docusaurus](https://github.com/facebook/docusaurus) static site generator in react
 - [alasql](https://github.com/AlaSQL/alasql) js sql database for browser & nodejs
 - [draw a ui](https://github.com/SawyerHood/draw-a-ui) OSS wireframe drawer
+- [coolify](https://coolify.io/docs/introduction) self hosted PaaS written in laravel.
+
 ## search engine
 - [Zinc](https://github.com/prabhatsharma/zinc) golang-based lightweight search engine
 - [MeiliSeach](https://github.com/meilisearch/meilisearch) rust-based lightweight search engine
@@ -112,6 +116,7 @@
 ## css
 - [master css](https://github.com/master-co/css) another tailwind alternative
 - [shadcn ui](https://github.com/shadcn-ui/ui) battery-included customizable css components
+
 ## php
 - [design patterns php](https://github.com/DesignPatternsPHP/DesignPatternsPHP) sample code for several design patterns in PHP 8
 - [scramble](https://github.com/dedoc/scramble) laravel OpenAPI generator
@@ -123,3 +128,5 @@
 - [jieba](https://github.com/fxsjy/jieba) 最受歡迎的中文分詞
 - [ArticutAPI](https://github.com/Droidtown/ArticutAPI) jieba alternative
 - [python cheatsheet](https://github.com/gto76/python-cheatsheet)
+- [bandit](https://github.com/PyCQA/bandit) whitebox security tool
+- [poetry](https://python-poetry.org/) modern dependency manager
