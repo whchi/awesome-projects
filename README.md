@@ -1,3 +1,16 @@
+# Agent skills
+## global level
+- [frontend-taste](https://github.com/Leonxlnx/taste-skill)
+- [superpowers](https://github.com/obra/superpowers)
+- [everything-claude-code](https://github.com/affaan-m/everything-claude-code)
+
+## project level
+- [ui-ux-pro-max](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill)
+
+## collection
+- [openai](https://github.com/openai/skills)
+- [anthropic](https://github.com/anthropics/skills)
+
 # Tools
 - [transfer format tool](https://transform.tools/)
 - [network testing tools integration in one site](https://www.nodecook.com/)
