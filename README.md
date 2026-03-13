@@ -1,17 +1,25 @@
-# Agent skills
-## global level
+# Agentic Coding
+## Skills
+### global level
 - [frontend-taste](https://github.com/Leonxlnx/taste-skill)
 - [superpowers](https://github.com/obra/superpowers)
 - [everything-claude-code](https://github.com/affaan-m/everything-claude-code)
 
-## project level
+### project level
 - [ui-ux-pro-max](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill)
 
-## collection
+### collection
 - [openai](https://github.com/openai/skills)
 - [anthropic](https://github.com/anthropics/skills)
 
+## context management
+- [serena](https://github.com/oraios/serena) focus in coding context, easier to start
+- [openviking](https://github.com/volcengine/OpenViking) general context management
+
+## deployment
+- [heretic](https://github.com/p-e-w/heretic) for offline LLM deployment, release model's original power
 # Tools
+
 - [transfer format tool](https://transform.tools/)
 - [network testing tools integration in one site](https://www.nodecook.com/)
 - [SSGs](https://jamstack.org/generators/) from jamstack
