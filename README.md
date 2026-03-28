@@ -10,6 +10,7 @@
 
 ### collection
 - [openai](https://github.com/openai/skills)
+- [codex use case](https://developers.openai.com/codex/use-cases)
 - [anthropic](https://github.com/anthropics/skills)
 
 ## context management
